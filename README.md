@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gagan Bindoria</h1>
 <h3 align="center">Experienced Frontend Developer with over 3 years of proficiency in modern web technologies, including NextJS, React.JS, Backbone JS (MVC), HTML, CSS, JavaScript, and SCSS.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagancodes2002&label=Profile%20views&color=0e75b6&style=flat" alt="gagancodes2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagancodes2002" alt="gagancodes2002" /></a> </p>
 
 - 🔭 I’m currently working on [Insta Insight](https://chromewebstore.google.com/detail/insta-insight/pknilpgbmejebohnilnmdmhjkmjddajf)
 
