@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Bindoria</h1>
-<h3 align="center">Experienced Frontend Developer with over 3 years of proficiency in modern web technologies, including NextJS, React.JS, Backbone JS (MVC), HTML, CSS, JavaScript, and SCSS. Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.</h3>
+<h3 align="center">Experienced Frontend Developer with over 3 years of proficiency in modern web technologies, including NextJS, React.JS, Backbone JS (MVC), HTML, CSS, JavaScript, and SCSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagancodes2002&label=Profile%20views&color=0e75b6&style=flat" alt="gagancodes2002" /> </p>
 
