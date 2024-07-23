@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Bindoria</h1>
-<h3 align="center">Experienced Frontend Developer with over 3 years of proficiency in modern web technologies, including NextJS, React.JS, Backbone JS (MVC), HTML, CSS, JavaScript, and SCSS.</h3>
+<h3 align="center">Experienced Frontend Developer with over 3 years of proficiency in modern web technologies, including NextJS, React.JS, Backbone JS (MVC), HTML, Tailwind, Bootstrap, CSS, JavaScript, and SCSS.</h3>
 
 
 - 🔭 I’m currently working on [Insta Insight](https://chromewebstore.google.com/detail/insta-insight/pknilpgbmejebohnilnmdmhjkmjddajf)
