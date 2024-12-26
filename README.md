@@ -2,7 +2,7 @@
 <h3 align="center">Experienced Frontend Developer with over 3 years of proficiency in modern web technologies, including NextJS, React.JS, Backbone JS (MVC), HTML, Tailwind, Bootstrap, CSS, JavaScript, and SCSS.</h3>
 
 
-- 🔭 I’m currently working on [Insta Insight](https://chromewebstore.google.com/detail/insta-insight/pknilpgbmejebohnilnmdmhjkmjddajf)
+- 🔭 I’m currently working on [Reellytics](https://chromewebstore.google.com/detail/insta-insight/pknilpgbmejebohnilnmdmhjkmjddajf)
 
 - 🌱 I’m currently learning **GSAP**
 
